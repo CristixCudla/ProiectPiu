@@ -42,14 +42,14 @@ namespace ConsoleApp1
 
         public string ConversieLaSir_PentruFisier()
         {
-            string obiectProdusPentruFisier = string.Format("{1}{0}{2}{0}{3}{0}{4}{0}",
+            string obiectModelPentruFisier = string.Format("{1}{0}{2}{0}{3}{0}{4}{0}",
                 SEPARATOR_PRINCIPAL_FISIER,
                 idModel,
                 nume_model,
                 tip
               );
 
-            return obiectProdusPentruFisier;
+            return obiectModelPentruFisier;
         }
 
         public void SetIdModel(int idModel)

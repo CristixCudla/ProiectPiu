@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Cudlix\\.nuget\\packages\\": {}
+    "C:\\Users\\STUDENT\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\piu tema\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\3123a\\piu tema\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "E:\\piu tema\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Cudlix\\.nuget\\packages\\",
-      "outputPath": "E:\\piu tema\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "D:\\3123a\\piu tema\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
+      "outputPath": "D:\\3123a\\piu tema\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Cudlix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
